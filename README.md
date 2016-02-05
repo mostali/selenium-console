@@ -10,6 +10,6 @@
 
 
 ##Quick start
-Application run using `selcore.Main.main()`
+To start an application using `selcore.Main.main()`
 
 
