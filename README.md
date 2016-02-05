@@ -1,6 +1,7 @@
 # Selenium Console
 
-Simple Utils for working with Selenuim on Java.
+Simple GUI Utils for working with Selenuim on Java. 
+May be use for development Selenium apllications.
+Allowed execute in browser css-selectors, xpath, js and see result
 
-Run util with 
-`selcore.Main.main()`
+Application run using `selcore.Main.main()`
