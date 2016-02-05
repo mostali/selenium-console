@@ -13,7 +13,7 @@ import org.openqa.selenium.WebElement;
 
 public class Main {
 
-	private JFrame jframeMAIN;
+	private JFrame jframeMAIN ;
 
 	private JPanelStatus jpanelStatus;
 	private JPanelLogin panOpenURL;
